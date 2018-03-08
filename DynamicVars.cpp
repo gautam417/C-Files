@@ -1,9 +1,7 @@
 // This program demonstrates the use of dynamic variables
 
 //Mehta, Gautam
-//Mercado Perez, Erik
-//Michael, Alex
-//Monton, Beau Jarrod
+
 
 #include <iostream>
 using namespace std;
