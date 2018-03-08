@@ -1,7 +1,4 @@
 //Gautam Mehta
-//Mercado Perez, Erik
-//Michael, Alex
-//Monton, Beau Jarrod
 
 #include <iostream>
 #include <iomanip>
